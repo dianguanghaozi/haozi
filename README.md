@@ -1,2 +1,0 @@
-# haozi
-Hello!
